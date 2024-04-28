@@ -1,8 +1,10 @@
-- tab: "echo"
+- tab: "evenofoneven"
   testcases:
-    - expression: 'echo("Hello world!")'
-      return: 'Hello world!'
-    - expression: 'echo(42)'
-      return: 42
-    - expression: 'echo("A\nstring\nwith\nnewlines")'
-      return: "A\nstring\nwith\nnewlines"
+    - expression: 'evenofoneven(6)'
+      return: 'Het getal 6 is even'
+    - expression: 'evenofoneven(5)'
+      return: 'Het getal 5 is oneven'
+    - expression: 'evenofoneven(50)'
+      return: 'Het getal 50 is even'
+    - expression: 'evenofoneven(67)'
+      return: 'Het getal 67 is oneven'
