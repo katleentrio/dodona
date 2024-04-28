@@ -8,7 +8,7 @@ Einde programma
 Einde programma
 ------------------------------------------------------------
 tab name: Tests
-python input without prompt: true
+python input without prompt: false
 block count: multi
 input block size: 1
 output block size: ends with
