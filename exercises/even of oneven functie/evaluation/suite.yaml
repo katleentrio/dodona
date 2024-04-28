@@ -1,10 +1,10 @@
 - tab: "evenofoneven"
   testcases:
     - expression: 'evenofoneven(6)'
-      return: 'Het getal 6 is even'
+      return: 'even'
     - expression: 'evenofoneven(5)'
-      return: 'Het getal 5 is oneven'
+      return: 'oneven'
     - expression: 'evenofoneven(50)'
-      return: 'Het getal 50 is even'
+      return: 'even'
     - expression: 'evenofoneven(67)'
-      return: 'Het getal 67 is oneven'
+      return: 'oneven'
