@@ -1,12 +1,11 @@
 {
   "description": {
     "names": {
-      "en": "Echo function",
-      "nl": "Echofunctie"
+      "nl": "Regen"
     }
   },
   "labels": [
-    "Functies"
+    "IF", "Selectie"
   ],
   "internals": {
     "token": "pcRkJISAvCQbdyJPxC7DIPISKwsG-3wDIBF6F-c5C6sMsWJShdRmMuue_R3HUr7y",
