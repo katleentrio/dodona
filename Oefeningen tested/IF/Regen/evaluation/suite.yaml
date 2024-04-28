@@ -3,6 +3,6 @@
     - expression: 'zon'
       return: 'Einde programma'
     - expression: 'regen'
-      return: 'Het regent vandaag. Neem je paraplu mee.\nEinde programma'
+      return: 'Het regent vandaag. Neem je paraplu mee.'
     - expression: 'sneeuw'
       return: "Einde programma"
