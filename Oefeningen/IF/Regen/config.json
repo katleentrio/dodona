@@ -1,15 +1,15 @@
 {
   "description": {
     "names": {
-      "en": "Even or not even function",
-      "nl": "Even of oneven functie"
+      "en": "Echo function",
+      "nl": "Echofunctie"
     }
   },
   "labels": [
-    "template"
+    "Functies"
   ],
   "internals": {
-    "token": "XHt3PN9x6DkkG9mCZAG7_hTGyUbxcfpKSd7YpI3pNpnxqHtD7ExaiiPt9MrIDVra",
+    "token": "pcRkJISAvCQbdyJPxC7DIPISKwsG-3wDIBF6F-c5C6sMsWJShdRmMuue_R3HUr7y",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
