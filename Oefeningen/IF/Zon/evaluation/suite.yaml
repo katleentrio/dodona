@@ -1,8 +1,0 @@
-- tab: "zon"
-  testcases:
-    - expression: 'zon'
-      return: 'De zon schijnt vandaag. Neem je zonnebril mee.\nEinde programma'
-    - expression: 'regen'
-      return: 'Einde programma'
-    - expression: 'sneeuw'
-      return: "Einde programma"
