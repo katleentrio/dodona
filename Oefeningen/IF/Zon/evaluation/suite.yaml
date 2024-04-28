@@ -1,8 +1,8 @@
-- tab: "echo"
+- tab: "zon"
   testcases:
-    - expression: 'echo("Hello world!")'
-      return: 'Hello world!'
-    - expression: 'echo(42)'
-      return: 42
-    - expression: 'echo("A\nstring\nwith\nnewlines")'
-      return: "A\nstring\nwith\nnewlines"
+    - expression: 'zon'
+      return: 'De zon schijnt vandaag. Neem je zonnebril mee.\nEinde programma'
+    - expression: 'regen'
+      return: 'Einde programma'
+    - expression: 'sneeuw'
+      return: "Einde programma"
