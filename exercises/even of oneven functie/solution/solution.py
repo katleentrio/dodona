@@ -1,5 +1,5 @@
 def evenofoneven(content):
     if content %2 == 0:
-        return even
+        return 'even'
     else:
-        return oneven
+        return 'oneven'
