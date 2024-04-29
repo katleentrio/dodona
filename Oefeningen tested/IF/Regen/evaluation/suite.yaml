@@ -10,5 +10,5 @@
     stdout: "Einde programma"
   - stdin: "Regen"
     stdout: "Einde programma"
-  - stdin: ""
+  - stdin: " "
     stdout: "Einde programma"
