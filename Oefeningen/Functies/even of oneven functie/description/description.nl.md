@@ -8,7 +8,7 @@ We gaan ervan uit dat de gebruiker steeds een geheel getal (braafjes) ingeeft.
 
 ```console?lang=python&prompt=>>>
 >>> evenofoneven(6)
-Het getal 6 is even.
+even
 >>> evenofoneven(5)
-Het getal 5 is oneven
+oneven
 ```
