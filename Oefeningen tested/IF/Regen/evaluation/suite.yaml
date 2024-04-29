@@ -1,8 +1,14 @@
-- tab: "regen"
+- tab: "Testen"
   testcases:
-    - expression: 'zon'
-      return: 'Einde programma'
-    - expression: 'regen'
-      return: 'Het regent vandaag. Neem je paraplu mee.'
-    - expression: 'sneeuw'
-      return: "Einde programma"
+  - stdin: "zon"
+    stdout: "Einde programma"
+  - stdin: "regen"
+    stdout: "Het regent vandaag. Neem je paraplu mee.\nEinde programma"
+  - stdin: "sneeuw"
+    stdout: "Einde programma"
+  - stdin: "Zon"
+    stdout: "Einde programma"
+  - stdin: "Regen"
+    stdout: "Einde programma"
+  - stdin: ""
+    stdout: "Einde programma"
