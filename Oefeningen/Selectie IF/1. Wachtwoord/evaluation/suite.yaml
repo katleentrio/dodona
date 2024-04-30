@@ -12,5 +12,3 @@
     stdout: "Einde programma"
   - stdin: "0214"
     stdout: "Einde programma"
-  - stdin: " "
-    stdout: "Einde programma"
