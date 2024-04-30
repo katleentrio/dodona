@@ -5,12 +5,12 @@ Schrijf een programma dat weergeeft wanneer de het sneeuwt, je handschoenen moet
 ## Input
 
 ```
->>> Welk weer is het vandaag? Je kan kiezen tussen zon, regen of sneeuw: zon
+>>> Welk weer is het vandaag? Je kan kiezen tussen zon, regen of sneeuw: sneeuw
 ```
 ## Output
 
 ```
-De zon schijnt vandaag. Neem je zonnebril mee.
+Het sneeuwt vandaag. Neem handschoenen mee.
 
 Einde programma
 ```

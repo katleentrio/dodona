@@ -1,11 +1,11 @@
 {
   "description": {
     "names": {
-      "nl": "Wachtwoord v1"
+      "nl": "Wachtwoord v2"
     }
   },
   "labels": [
-    "IF",
+    "IF","Else",
     "Selectie"
   ],
   "internals": {
