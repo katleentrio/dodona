@@ -13,4 +13,4 @@
   - stdin: "20"
     stdout: "Toegang verleend.\nEinde programma"
   - stdin: "21"
-    stdout: "Einde programma"
+    stdout: "Toegang verleend.\nEinde programma"
