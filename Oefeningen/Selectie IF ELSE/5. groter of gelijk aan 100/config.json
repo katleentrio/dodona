@@ -1,16 +1,15 @@
 {
   "description": {
     "names": {
-      "nl": "Wachtwoord"
+      "nl": "Groter of gelijk aan 100"
     }
   },
   "labels": [
-    "IF",
-    "Else",
+    "IF", "Else",
     "Selectie"
   ],
   "internals": {
-    "token": "hZwWu4qgYa-gY4GcpQsbwSbTgD9c5K4arHmQvBfEerh_yKiT7UTK_rIhqwUvydZD",
+    "token": "k7a_D2V9r_4_XEAYEs38xB3-kY3kdNSxmC3GbFpXeAwz5JEFDqEneNbxkBeXphht",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

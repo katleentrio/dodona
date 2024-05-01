@@ -1,16 +1,15 @@
 {
   "description": {
     "names": {
-      "nl": "Wachtwoord"
+      "nl": "Overwerktoeslag"
     }
   },
   "labels": [
-    "IF",
-    "Else",
+    "IF", "Else",
     "Selectie"
   ],
   "internals": {
-    "token": "hZwWu4qgYa-gY4GcpQsbwSbTgD9c5K4arHmQvBfEerh_yKiT7UTK_rIhqwUvydZD",
+    "token": "epmxDu8fUskwPFNUseQSnq-hEFKcrDsbpEQ2fqXdPm35snKMf4zCjx6AXAFPZVA4",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
