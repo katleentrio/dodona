@@ -1,6 +1,6 @@
 ## Opgave
 
-Schrijf een programma dat weergeeft wanneer de zon schijnt, je een zonnebril moet meenemen. De tekst `Einde programma` verschijnt altijd, ongeacht de ingave van de gebruiker.
+Als de zon schijnt, moet je een zonnebril meenemen. Schrijf een programma dat vraagt aan de gebruiker welk weer het is. De tekst `Einde programma` verschijnt altijd, ongeacht de ingave van de gebruiker.
 
 ## Input
 
