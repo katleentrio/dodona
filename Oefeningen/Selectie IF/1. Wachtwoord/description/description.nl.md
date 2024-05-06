@@ -15,6 +15,6 @@ Schrijf een programma dat:
 ## Output
 
 ```
-Wachtwoord correct.
+Wachtwoord correct
 Einde programma
 ```
