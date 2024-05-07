@@ -5,10 +5,13 @@
     }
   },
   "labels": [
-    "If","Else","Logische connectoren","Selectie"
+    "If",
+    "Else",
+    "Logische connectoren",
+    "Selectie"
   ],
   "internals": {
-    "token": "xuayEDmtzIuEPeXC3ThZybGri3qMnYb9rbuhF5czYjAyng8P8IZWGxiK5NmMZ3B4",
+    "token": "Yu6Awb3wss3M4KUfJqp_wSPmSSmY2NGIQAzrI53wHEPNenwVJBvp4RUiE4bEHWXv",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
