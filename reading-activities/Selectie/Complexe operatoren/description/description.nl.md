@@ -2,8 +2,10 @@
 
 Binnen deze oefenreeks zal je regelmatig de complexe operatoren moeten gebruiken. Ken je deze nog?
 
-% --> modulo-deling --> geeft het quotient van de deling
-// --> gehele deling --> geeft de rest van de deling
+
+- % --> modulo-deling --> geeft het quotient van de deling
+- // --> gehele deling --> geeft de rest van de deling
+
 
 Hiermee kan je een eenheid, tiental, hondertal, ... uit een getal filteren.
 
