@@ -5,10 +5,13 @@
     }
   },
   "labels": [
-    "IF", "Selectie", "Else" , "if/else"
+    "IF",
+    "Selectie",
+    "Else",
+    "if/else"
   ],
   "internals": {
-    "token": "pcRkJISAvCQbdyJPxC7DIPISKwsG-3wDIBF6F-c5C6sMsWJShdRmMuue_R3HUr7y",
+    "token": "Yvakt4jRqMhCj2SPSnBZhr2g9jSHa_N2pJ8vDgNIvdTPZvFnJU4iDIkvDtvSyMFJ",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
