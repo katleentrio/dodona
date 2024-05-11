@@ -1,16 +1,23 @@
-## Opgave
+## Opdracht
 
+
+## Een mogelijk aanpak
 Schrijf een programma dat:
 
 
 - Afsluit met `Einde programma`.
 
-## Input
+## Invoer
+
+## Uitvoer
+
+## Voorbeeld
+**Invoer**
 
 ```
 >>> 
 ```
-## Output
+**Output**
 
 ```
 
