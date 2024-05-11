@@ -5,7 +5,7 @@ De gebruiker geeft 2 getallen en kiest de operator.
 ## Een mogelijk aanpak
 Schrijf een programma dat:
 
-- de gebruiker vraagt om twee getallen en een operator (+, -) in te voeren.
+- de gebruiker vraagt om eerst de twee getallen en vervolgens om een operator (+, -) in te voeren.
 - de berekening uitvoert op basis van de ingevoerde operator.
 - het resultaat toont aan de gebruiker.
 
