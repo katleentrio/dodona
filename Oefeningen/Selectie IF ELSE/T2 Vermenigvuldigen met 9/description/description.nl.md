@@ -1,5 +1,5 @@
 ## Opdracht
-Schrijf een programma dat het product berekent van een ingevoerd geheel getal met het getal 9. Het ingevoerd geeel getal mag niet groter zijn dan 675. Indien de gebruiker een geheel getal groter dan 675 invoert, komt er een foutmelding.
+Schrijf een programma dat het product berekent van een ingevoerd geheel getal met het getal 9. Het ingevoerd geheel getal mag niet groter zijn dan 675. Indien de gebruiker een geheel getal groter dan 675 invoert, komt er een foutmelding.
 
 ## Een mogelijk aanpak
 Schrijf een programma dat:
