@@ -1,5 +1,5 @@
 ## Opdracht
-Schrijf een programma dat een factuurbedrag opvraagt aan de gebruiker. Indien het factuurbedrag boven 100 euro ligt, wordt er een korting van 5% gegeven, tot en met 100 euro bedraagt de korting 3%. Het programma geeft weer op hoeveel korting (3% of 5%) de klant recht heeft en drukt dit af. Het programma sluit af met `Einde programma`
+Schrijf een programma dat een factuurbedrag opvraagt aan de gebruiker. Indien het factuurbedrag boven 100 euro ligt, wordt er een korting van 5% gegeven, tot en met 100 euro bedraagt de korting 3%. Het programma geeft weer op hoeveel korting (3% of 5%) de klant recht heeft en drukt dit af. Het programma sluit af met `Einde programma`.
 
 ## Een mogelijk aanpak
 Het programma:
