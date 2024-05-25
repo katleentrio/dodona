@@ -19,7 +19,7 @@ Het programma:
 **Invoer**
 
 ```
-Wat is het factuurbedrag? ~blue:75~
+Wat is het factuurbedrag? 75
 ```
 **Output**
 
