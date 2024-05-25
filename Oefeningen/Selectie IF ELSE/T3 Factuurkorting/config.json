@@ -1,15 +1,15 @@
 {
   "description": {
     "names": {
-      "nl": "Regen of zon"
+      "nl": "Factuurkorting"
     }
   },
   "labels": [
-    "IF", "Else","if/else",
+    "IF", "Else", "if/else",
     "Selectie"
   ],
   "internals": {
-    "token": "Kqv5KUEZ3FwcthCBSh2xQGjApUGd8pHGwZ-Zvb_wHRxyKQJ-Cr664Mv3rTGkFrfb",
+    "token": "UHWtaJ3tziuTFKUUzfg3UFZApPFdBYU7JpcBK4VdNnJgxS5q_7jxF5bqciyFyrmJ",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

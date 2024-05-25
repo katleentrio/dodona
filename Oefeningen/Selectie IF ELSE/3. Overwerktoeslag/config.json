@@ -6,7 +6,7 @@
   },
   "labels": [
     "IF",
-    "Else",
+    "Else","if/else",
     "Selectie"
   ],
   "internals": {
