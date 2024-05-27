@@ -1,0 +1,15 @@
+{
+  "description": {
+    "names": {
+      "nl": "Resultaat deling"
+    }
+  },
+  "labels": [
+    "IF", "Else", "if/else",
+    "Selectie"
+  ],
+  "internals": {
+    "token": "UHWtaJ3tziuTFKUUzfg3UFZApPFdBYU7JpcBK4VdNnJgxS5q_7jxF5bqciyFyrmJ",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
