@@ -1,6 +1,6 @@
 - tab: "Testen"
   testcases:
-  - stdin: "'Voer het bedrag in:',75.62\n'Voer het delingsgetal in:',2.3"
+  - stdin: 'Voer het bedrag in:',75.62'\nVoer het delingsgetal in:',2.3
     stdout: "Het resultaat is 32.878\nEinde programma"
   - stdin: "Voer het bedrag in: 25.0\nVoer het delingsgetal in: 3.6"
     stdout: "Het resultaat is 6.944\nEinde programma"
