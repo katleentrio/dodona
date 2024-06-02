@@ -1,0 +1,11 @@
+{
+  "description": {
+    "names": {
+      "nl": "Som van 10 cijfers"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": ["input","output","sequentie"]
+}
