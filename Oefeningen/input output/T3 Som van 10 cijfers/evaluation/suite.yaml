@@ -1,16 +1,27 @@
 - tab: "Som van 10 cijfers"
   testcases:
+    - statement: |
+        getal1 = int(input("Geef een eerste getal: "))
+        getal2 = int(input("Geef nog een getal: "))
+        getal3 = int(input("Geef nog een getal: "))
+        getal4 = int(input("Geef nog een getal: "))
+        getal5 = int(input("Geef nog een getal: "))
+        getal6 = int(input("Geef nog een getal: "))
+        getal7 = int(input("Geef nog een getal: "))
+        getal8 = int(input("Geef nog een getal: "))
+        getal9 = int(input("Geef nog een getal: "))
+        getal10 = int(input("Geef nog een laatste getal: "))
     - stdin: |
-       Geef een eerste getal: 1
-       Geef nog een getal: 2
-       Geef nog een getal: 3
-       Geef nog een getal: 4
-       Geef nog een getal: 5
-       Geef nog een getal: 6
-       Geef nog een getal: 7
-       Geef nog een getal: 8
-       Geef nog een getal: 9
-       Geef nog een getal: 10
+       1
+       2
+       3
+       4
+       5
+       6
+       7
+       8
+       9
+       10
       stdout: 'De som bedraagt 55'
 
 
