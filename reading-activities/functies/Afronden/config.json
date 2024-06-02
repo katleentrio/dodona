@@ -1,0 +1,14 @@
+{
+  "description": {
+    "names": {
+      "nl": "Afronden"
+    }
+  },
+  "labels": [
+    "Afronden"
+  ],
+  "internals": {
+    "token": "Airc7MsBP4MYBpVyvfn4qsyUSXC6VTbAasxeGZPKNr8_WG-ADT38IGDDsaRAwcWV",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
