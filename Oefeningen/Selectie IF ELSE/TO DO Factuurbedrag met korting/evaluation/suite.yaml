@@ -1,6 +1,7 @@
 - tab: "Testen"
   testcases:
-  - stdin: "Wat is het factuurbedrag? 75"
-    stdout: "Je hebt recht op 2.25 euro korting.
+  - stdin: "75"
+    stdout: "Wat is het factuurbedrag? 
+            Je hebt recht op 2.25 euro korting.
             Het bedrag inclusief korting bedraagt 72.75 euro.
             Einde programma"
