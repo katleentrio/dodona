@@ -5,16 +5,18 @@
   "description": {
     "names": {
       "nl": "Oppervlakte Omtrek Volume Parallellepipedum"
-       }
+    }
   },
   "evaluation": {
     "pythia_judge": "output"
   },
   "labels": [
-    "Selectie", "afronden","Bibliotheken"
+    "Selectie",
+    "afronden",
+    "Bibliotheken"
   ],
   "internals": {
-    "token": "pcRkJISAvCQbdyJPxC7DIPISKwsG-3wDIBF6F-c5C6sMsWJShdRmMuue_R3HUr7y",
+    "token": "ShBXZBDRnhQGwBa7ab3PXuCaBecbxSbY-Ip5GYQCs3NcyvSAsHKJ-kfNBVpztCMx",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
