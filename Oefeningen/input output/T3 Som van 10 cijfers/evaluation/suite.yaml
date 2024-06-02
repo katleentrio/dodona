@@ -1,16 +1,16 @@
 - tab: "Som van 10 cijfers"
   testcases:
     - stdin: |
-       {"Geef een eerste getal: " : 1}
-       {"Geef nog een getal: " : 2}
-       {"Geef nog een getal: " : 3}
-       {"Geef nog een getal: " : 4}
-       {"Geef nog een getal: " : 5}
-       {"Geef nog een getal: " : 6}
-       {"Geef nog een getal: " : 7}
-       {"Geef nog een getal: " : 8}
-       {"Geef nog een getal: " : 9}
-       {"Geef nog een getal: " : 10}
+       {"Geef een eerste getal: " : "1"}
+       {"Geef nog een getal: " : "2"}
+       {"Geef nog een getal: " : "3"}
+       {"Geef nog een getal: " : "4"}
+       {"Geef nog een getal: " : "5"}
+       {"Geef nog een getal: " : "6"}
+       {"Geef nog een getal: " : "7"}
+       {"Geef nog een getal: " : "8"}
+       {"Geef nog een getal: " : "9"}
+       {"Geef nog een getal: " : "10"}
       stdout: 'De som bedraagt 55'
 
 
