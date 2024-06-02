@@ -5,14 +5,16 @@ Schrijf een programma dat een factuurbedrag opvraagt aan de gebruiker. Indien he
 Het programma:
 - vraagt de gebruiker om een factuurbedrag;
 - berekend welke korting gegeven wordt;
-- geeft weer op hoeveel korting de klant recht heeft;
+- geeft het koritngsbedrag weer;
+- geeft het bedrag inclusief korting weer;
 - sluit af met `Einde programma`.
 
 ## Invoer
 - een geheel getal
 
 ## Uitvoer
-- het kortingspercentage
+- het kortingsbedrag
+- het bedrag inclusief korting
 - Einde programma
 
 ## Voorbeeld
@@ -24,6 +26,7 @@ Wat is het factuurbedrag? 75
 **Output**
 
 ```
-Je hebt recht op 3% korting
+Je hebt recht op 2.25 euro korting.
+Het bedrag inclusief korting bedraagt 72.75 euro.
 Einde programma
 ```

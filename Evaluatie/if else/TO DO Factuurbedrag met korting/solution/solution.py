@@ -1,5 +1,5 @@
 # Vraag de gebruiker om het factuurbedrag
-factuurbedrag = float(input("Voer het factuurbedrag in: "))
+factuurbedrag = float(input("Wat is het factuurbedrag? "))
 
 # Controleer het factuurbedrag en bereken de korting
 if factuurbedrag > 100:
@@ -10,13 +10,13 @@ else:
 # Bereken het bedrag na korting
 bedrag_na_korting = factuurbedrag - korting
 
-# Print het bedrag na korting
-print("Het bedrag na korting is: ", bedrag_na_korting)
-
 # Print de korting
-print("De korting is:", korting)
-
-
+print("Je hebt recht op",korting, "euro korting.")
 
 # Print het bedrag na korting
-print("Het bedrag na korting is: ", bedrag_na_korting)
+print("Het bedrag inclusief korting bedraagt",bedrag_na_korting,"euro.")
+
+
+
+print("Einde programma")
+
