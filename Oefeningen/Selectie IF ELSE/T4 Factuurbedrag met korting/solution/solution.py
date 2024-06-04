@@ -11,12 +11,11 @@ else:
 bedrag_na_korting = factuurbedrag - korting
 
 # Print de korting
-print("Je hebt recht op",korting, "euro korting.")
+print("Je hebt recht op",round(korting,2), "euro korting.")
 
 # Print het bedrag na korting
-print("Het bedrag inclusief korting bedraagt",bedrag_na_korting,"euro.")
+print("Het bedrag inclusief korting bedraagt",round(bedrag_na_korting,2),"euro.")
 
 
 
 print("Einde programma")
-

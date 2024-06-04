@@ -1,6 +1,0 @@
-- tab: "Testen"
-  testcases:
-  - expression: "Wat is het factuurbedrag? 75.0"
-    return: "Je hebt recht op 2.25 euro korting.\n
-            Het bedrag inclusief korting bedraagt 72.75 euro.\n
-            Einde programma"
