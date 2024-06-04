@@ -26,6 +26,6 @@ Voer het delingsgetal in: 2.3
 **Output**
 
 ```
-Het resultaat is 32.88
+Het resultaat is 32.878
 Einde programma
 ```
