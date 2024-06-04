@@ -4,6 +4,9 @@
       "nl": "Leeftijdscategorie"
     }
   },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
   "labels": [
     "IF",
     "Selectie"
