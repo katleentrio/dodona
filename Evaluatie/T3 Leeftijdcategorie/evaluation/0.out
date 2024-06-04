@@ -1,0 +1,15 @@
+Hallo Jane, jij bent 20 en jij bent een volwassen.
+Einde programma
+
+Hallo John, jij bent 15 en jij bent een kind.
+Einde programma
+
+Hallo Jill, jij bent 49 en jij bent een volwassen.
+Einde programma
+-----------------------------------------
+tab name: Testen
+python input without prompt: false
+block count: multi
+input block size: 3
+output block size: ends with
+comparison: exact match
