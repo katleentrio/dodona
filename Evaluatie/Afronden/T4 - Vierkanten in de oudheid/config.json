@@ -5,7 +5,6 @@
   "description": {
     "names": {
       "nl": "Vierkanten in de Oudheid"
-      
     }
   },
   "evaluation": {
@@ -16,8 +15,8 @@
     "sequentie",
     "Afronden"
   ],
-   "internals": {
-    "token": "YIJknU8YSm-vxA5hh25pRMVwi5Pu-GUj7zimp7FsV_dckVnf4UJKXKKfV4Jf8U2e",
+  "internals": {
+    "token": "ZzPmR27RZY8WKTeFMNnC5mNYKsA_bBPFZGxUSTYtSN29vBCakxrKH6pJPakkkWnF",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
