@@ -1,5 +1,5 @@
 ## Opdracht
-Maak een programma waarin gebruikers hun naam en leeftijd invoeren en het programma bepaalt in welke categorie ze vallen (kind of volwassen). Vanaf het jaar dat je 18 wordt (dus 18 jaar en ouder) ben je volwassenen.
+Maak een programma waarin gebruikers hun naam en leeftijd invoeren en het programma bepaalt in welke categorie ze vallen (kind of volwassen). Vanaf het jaar dat je 18 wordt (dus 18 jaar en ouder) ben je volwassen persoon.
 
 ## Een mogelijk aanpak
 Schrijf een programma dat:
@@ -45,6 +45,6 @@ Geef het huidig jaar in: 2024
 ```
 **Uitvoer**
 ```
-Hallo Jane, jij bent 20 en jij bent een volwassen.
+Hallo Jane, jij bent 20 en jij bent een volwassen persoon.
 Einde programma
 ```

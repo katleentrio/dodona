@@ -5,7 +5,7 @@ huidig_jaar = int(input("Geef het huidig jaar in: "))
 leeftijd = huidig_jaar-geboortejaar
                    
 if leeftijd >=18:
-    categorie = "volwassen"
+    categorie = "volwassen persoon"
 else:
     categorie = "kind"
     
