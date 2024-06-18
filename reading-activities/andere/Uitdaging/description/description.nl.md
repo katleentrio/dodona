@@ -1,4 +1,4 @@
-# Niveaubepaling
+# Uitdaging
 
 De volgende oefening is een uitdaging. Deze staat niet op punten.
 
