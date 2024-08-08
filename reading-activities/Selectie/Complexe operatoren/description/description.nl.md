@@ -22,7 +22,7 @@ Hiermee kan je een eenheid, tiental, hondertal, ... uit een getal filteren.
 3
 ```
 
-*hondertal*
+*honderdtal*
 ```
 >>>1234//100%10
 2
