@@ -10,6 +10,13 @@
     "Else",
     "if/else"
   ],
+
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+
+  
   "internals": {
     "token": "uID6zXKBnmXIrvDbEex5Rnr4mHgiPpB_TG_32apntdmss_-2cNQGhfmSv_NsijCS",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."

@@ -8,6 +8,13 @@
     "IF",
     "Selectie"
   ],
+
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+
+  
   "internals": {
     "token": "epmxDu8fUskwPFNUseQSnq-hEFKcrDsbpEQ2fqXdPm35snKMf4zCjx6AXAFPZVA4",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
