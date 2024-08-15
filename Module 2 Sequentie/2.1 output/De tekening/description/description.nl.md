@@ -2,7 +2,7 @@
 
 Schrijf een python-script dat de een eenvoudig vierkant zoals in onderstaand voorbeeld maakt.
 
-![uitvoer.](media/uitvoer.png "output"){:width="25%"}
+![uitvoer.](media/uitvoer.png "output"){:width="15%"}
 
 
 ## Uitvoer 
