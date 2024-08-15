@@ -3,6 +3,5 @@
     - statement: 'naam = John'
     - statement: 'voornaam = Doe'
     - statement: 'volledige_naam = naam + " " + voornaam'
-    - expression: 'volledige_naam'
-      return: 'John Doe'
+      stdout: 'John Doe'
 
