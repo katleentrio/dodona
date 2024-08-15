@@ -8,15 +8,13 @@
     "handler": "python",
     "pythia_judge": "output"
   },
-  
   "labels": [
-    "Sequentie", "output", "Python"
-    ],
-  
-  
+    "Sequentie",
+    "output",
+    "Python"
+  ],
   "internals": {
-    "token": "CWpF_5drqgqSZdR-tTtWijVfH6KX4Aqqn7wnNW6K9vGH3eesFqnqvs3IsgynR7tn",
+    "token": "ehEB55RQs6MJ98zPDAwkgJ2V9uNyRvc_PhEc-uVrr-SDTdqtVkb9AgcvuffpCktX",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
-  
 }
