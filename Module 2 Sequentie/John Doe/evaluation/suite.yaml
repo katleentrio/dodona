@@ -2,6 +2,7 @@
   testcases:
     - statement: 'naam = John'
     - statement: 'voornaam = Doe'
-    - expression: 'naam + " " + voornaam'
+    - statement: 'volledige_naam = naam + " " + voornaam'
+    - expression: 'volledige_naam'
       return: 'John Doe'
 
