@@ -8,11 +8,12 @@
     }
   },
   "evaluation": {
+    "handler": "python",
     "pythia_judge": "output"
   },
   "labels": [
     "python",
-    "sequentie",
+    "functies",
     "Afronden"
   ],
   "internals": {

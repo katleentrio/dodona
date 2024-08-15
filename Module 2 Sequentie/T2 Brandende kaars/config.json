@@ -1,18 +1,21 @@
 {
   "description": {
     "names": {
-      "nl": "Leeftijdscategorie"
+      "nl": "Brandende kaars"
     }
   },
   "evaluation": {
+    "handler": "python",
     "pythia_judge": "output"
   },
   "labels": [
-    "IF",
-    "Selectie"
+    "Python",
+    "input",
+    "output"
   ],
+  "access": "public",
   "internals": {
-    "token": "PR53xmtkfcXne-aqJMIhtNe4m5x2Iwb7US6pEapkXpHYtAwmdH_yM4Ckku3tCZ_K",
+    "token": "R_nWTT83RA7tpeKgc5iBqC4pipayzGWpsHJRtk9HHYkcxfYS_UdYK3pHcuxc5S6J",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
