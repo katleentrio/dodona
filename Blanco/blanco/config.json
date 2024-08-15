@@ -8,15 +8,14 @@
     "handler": "python",
     "pythia_judge": "output"
   },
-  
   "labels": [
-    "Sequentie", "output", "Python"
-    ],
-  
+    "Sequentie",
+    "output",
+    "Python"
+  ],
   "contact": "Katleen Trio <katleen.trio@campus-keerbergen.be>",
   "internals": {
-    "token": "CWpF_5drqgqSZdR-tTtWijVfH6KX4Aqqn7wnNW6K9vGH3eesFqnqvs3IsgynR7tn",
+    "token": "tDzdQ5hIAaJYNmxAsYIeUYrWTzaZqqmbYJAsR6R2Nw9jPxkIpajka3xZq8uwVZ4j",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
-  
 }
