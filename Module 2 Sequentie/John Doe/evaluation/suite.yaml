@@ -2,6 +2,6 @@
   testcases:
     - statement: "naam = John"
     - statement: "voornaam = Doe"
-    - statement: "volledige_naam = naam + " " + voornaam"
+    - statement: "volledige_naam = naam , voornaam"
       stdout: "John Doe"
 
