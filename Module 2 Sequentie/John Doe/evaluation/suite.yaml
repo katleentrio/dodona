@@ -1,0 +1,7 @@
+- tab: "John Doe"
+  testcases:
+    - statement: 'naam = John'
+    - statement: 'voornaam = Doe'
+    - expression: 'naam + " " + voornaam'
+      return: 'John Doe'
+
