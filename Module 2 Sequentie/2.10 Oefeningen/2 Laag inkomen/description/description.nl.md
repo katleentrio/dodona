@@ -2,7 +2,7 @@
 
 Schrijf een programma waarin je de `voornaam`, de `leeftijd` en het `loon` aan de gebruiker opvraagt. Geef daarna onderstaande output weer.
 
-# Voorbeeld
+## Voorbeeld
 
 *input*
 ```
