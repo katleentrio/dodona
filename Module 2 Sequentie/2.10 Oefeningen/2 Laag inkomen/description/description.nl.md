@@ -1,6 +1,6 @@
 ## Opdracht
 
-Schrijf een programma waarin je de `voornaam`, de `leeftijd` en het `loon` aan de gebruiker opvraagt. Geef daarna onderstaande output weer.
+Schrijf een programma waarin je de `voornaam`, de `leeftijd` en het `loon` aan de gebruiker opvraagt. Geef daarna onderstaande output exact weer.
 
 ## Voorbeeld
 
@@ -9,7 +9,6 @@ Schrijf een programma waarin je de `voornaam`, de `leeftijd` en het `loon` aan d
 Wat is je voornaam? Jan
 Wat is je leeftijd? 75
 Wat is jouw maandelijks inkomen? 1500
-
 ```
 
 *Output*
