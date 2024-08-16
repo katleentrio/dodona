@@ -14,6 +14,6 @@ Wat is jouw maandelijks inkomen? 1500
 
 *Output*
 ```
-Dit is Jan, hij is 75 jaar.
-Maar Jan is niet tevreden met zijn inkomen. Zijn inkomen bedraagt amper 1500 per maand.
+Dit is Jan, 75 jaar.
+Maar Jan is niet tevreden met het inkomen. Het inkomen bedraagt amper 1500 per maand.
 ```
