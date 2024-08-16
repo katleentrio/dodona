@@ -6,4 +6,16 @@ Geef de gecombineerde naam weer in je output. Opgelet, namen plakken niet tegen 
 
 ![afb.](media/afb.png "afb"){:width="25%"}
 
+## Voorbeeld
+
+*input*
+```
+zin1
+```
+
+*Output*
+```
+zin2
+```
+
 
