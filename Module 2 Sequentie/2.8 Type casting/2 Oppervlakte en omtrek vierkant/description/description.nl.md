@@ -19,5 +19,5 @@ Voer de lengte van de zijde in centimeter in:  16.42
 Print de omtrek en oppervlakte van het vierkant naar het scherm in de volgende vorm: 
 
 ```
-De omtrek van het vierkant is ... cm en de oppervlakte is ... cm².
+De omtrek van het vierkant is ... centimeter en de oppervlakte is ... vierkante centimeter.
 ```
