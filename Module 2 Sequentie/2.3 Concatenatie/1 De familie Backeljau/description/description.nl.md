@@ -12,7 +12,7 @@ Sabrina Backeljau - Dochter van Cois en Maria - geboren in 2000
 Thérèse Backeljau - Bomma, moeder van Cois - geboren in 1950
 Marcel De Neudt - Buurman - geboren in 1984
 
-![afb.](media/de familie Backeljau.png "afb"){:width="25%"}
+![afb.](media/de familie Backeljau.png "afb"){:width="50%"}
 Eerst stel je de familie voor. Je eindigt met de laatste zinnen.
 
 *Uitvoer*
