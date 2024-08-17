@@ -19,7 +19,7 @@ Voer de breedte van de rechthoek in meter in: 5.66
 ## Uitvoer
 
 ```
-De oppervlakte van de rechthoek is ... m².
-De omtrek van de rechthoek is ... m.
+De oppervlakte van de rechthoek is ... vierkante meter.
+De omtrek van de rechthoek is ... meter.
 ```
 
