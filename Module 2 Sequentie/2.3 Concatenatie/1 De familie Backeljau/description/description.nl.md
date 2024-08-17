@@ -5,12 +5,12 @@ De Familie Backeljau was een komisch Vlaams televisieprogramma. De familie was g
 Stel de  familie Backeljau voor met hun leeftijd. De leeftijd is een berekend veld op basis van hun geboortejaar (deze is fictief weliswaar) en het huidig jaar (2024).
 
 
-Cois Backeljau - Vader - geboren in 1974
-Maria Steveniers - Vrouw van Cois - geboren in 1977
-Franky Backeljau - Zoon van Cois en Maria - geboren in 1998
-Sabrina Backeljau - Dochter van Cois en Maria - geboren in 2000
-Thérèse Backeljau - Bomma, moeder van Cois - geboren in 1950
-Marcel De Neudt - Buurman - geboren in 1984
+- Cois Backeljau - Vader - geboren in 1974
+- Maria Steveniers - Vrouw van Cois - geboren in 1977
+- Franky Backeljau - Zoon van Cois en Maria - geboren in 1998
+- Sabrina Backeljau - Dochter van Cois en Maria - geboren in 2000
+- Thérèse Backeljau - Bomma, moeder van Cois - geboren in 1950
+- Marcel De Neudt - Buurman - geboren in 1984
 
 ![afb.](media/de familie Backeljau.png "afb"){:width="50%"}
 Eerst stel je de familie voor. Je eindigt met de laatste zinnen.
