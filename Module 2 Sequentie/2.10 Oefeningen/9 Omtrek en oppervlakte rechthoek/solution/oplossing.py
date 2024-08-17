@@ -1,6 +1,6 @@
 # Vraag de gebruiker naar de lengte en breedte van de rechthoek
-lengte = float(input("Voer de lengte van de rechthoek in: "))
-breedte = float(input("Voer de breedte van de rechthoek in: "))
+lengte = float(input("Voer de lengte van de rechthoek in meter in: "))
+breedte = float(input("Voer de breedte van de rechthoek in meter in: "))
 
 # Bereken de oppervlakte en omtrek van de rechthoek
 oppervlakte = lengte * breedte
