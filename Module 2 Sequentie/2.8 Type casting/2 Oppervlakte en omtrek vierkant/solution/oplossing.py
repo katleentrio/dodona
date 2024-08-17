@@ -1,5 +1,5 @@
 # Vraag de gebruiker naar de lengte van de zijde van het vierkant
-zijde = float(input("Voer de lengte van de zijde in: "))
+zijde = float(input("Voer de lengte van de zijde in centimeter in: "))
 
 # Bereken de oppervlakte en omtrek van het vierkant
 oppervlakte = zijde * zijde
