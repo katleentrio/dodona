@@ -9,6 +9,8 @@ In deze oefening leer je een
 1. Maak een variabele met de naam `voornaam`;
 2. Print de inhoud van de variabele `voornaam` naar het scherm.
 
+Omdat dit de eerste oefening is, krijg je de code cadeau.
+
 ## Invoer
 ```
 Alice
@@ -18,3 +20,4 @@ Alice
 ```
 Alice
 ```
+
