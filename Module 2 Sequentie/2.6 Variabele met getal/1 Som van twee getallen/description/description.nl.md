@@ -10,7 +10,7 @@ De opgaven in deze oefeningenreeks verwijzen vaak expliciet naar een specifieke 
 
 Schrijf een programma dat twee getallen optelt en deze waarde toekent aan een variabele. De berekende waarde wordt op het scherm afgedrukt.
 
-## Voorbeeld
+## Gegeven
 
 *input*
 ```
