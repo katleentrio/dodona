@@ -15,7 +15,7 @@
     "test_suite": "suite.yaml"
   },
 
-  
+  "contact": "Katleen Trio <katleen.trio@campus-keerbergen.be>",
   "internals": {
     "token": "EgwTK8vIXUMwGJBHiuAuaXjFBtWW_e-YnKjAwzHEYYIcb4cFtIBzxbySpYVNPatP",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
