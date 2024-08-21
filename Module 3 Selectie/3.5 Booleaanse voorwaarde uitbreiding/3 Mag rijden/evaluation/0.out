@@ -1,0 +1,22 @@
+Wat is je leeftijd? 19
+Heb je een vast rijbewijs? (ja of nee): ja
+Je mag alleen met de auto rijden.
+
+Wat is je leeftijd? 15
+Heb je een vast rijbewijs? (ja of nee): nee
+Je mag niet met de auto rijden.
+
+Wat is je leeftijd? 18
+Heb je een vast rijbewijs? (ja of nee): nee
+Je mag niet met de auto rijden.
+
+Wat is je leeftijd? 18
+Heb je een vast rijbewijs? (ja of nee): ja
+Je mag alleen met de auto rijden.
+-----------------------------------------
+tab name: Feedback
+python input without prompt: false
+block count: multi
+input block size: 2
+output block size: ends with
+comparison: exact match
