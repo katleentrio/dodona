@@ -5,18 +5,18 @@
     }
   },
   "labels": [
-    "If", "Else","if/elif/else",
+    "If",
+    "Else",
+    "if/elif/else",
     "Selectie"
   ],
-
   "evaluation": {
     "handler": "python",
     "pythia_judge": "output"
   },
-
   "contact": "Katleen Trio <katleen.trio@campus-keerbergen.be>",
   "internals": {
-    "token": "Kqv5KUEZ3FwcthCBSh2xQGjApUGd8pHGwZ-Zvb_wHRxyKQJ-Cr664Mv3rTGkFrfb",
+    "token": "8wr4ArxhMHbxZg3Fp9fPbzY9iRqmq8C6gnqjf9r3kmmjr9cZFb_jIDIGQk2wfFRR",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
