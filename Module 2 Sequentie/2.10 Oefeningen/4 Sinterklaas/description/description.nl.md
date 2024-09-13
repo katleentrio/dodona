@@ -4,7 +4,7 @@ Schrijf een brief aan Sinterklaas. Maak de volgende variabelen aan: `naam`, `lee
 
 Vraag alles op aan je gebruiker. Zorg voor de exacte vraagstelling en output.
 
-Voorbeeld
+## Voorbeeld
 
 **input**
 ```
