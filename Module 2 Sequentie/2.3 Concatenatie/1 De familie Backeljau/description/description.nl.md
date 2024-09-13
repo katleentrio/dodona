@@ -26,7 +26,7 @@ De mama Maria is <leeftijd>
 (de rest van de familie - ook de buurman - vul je verder aan.)
 
 Mama Maria was <leeftijd> toen ze haar oudste zoon Franky kreeg.
-Papa Cois was <leeftijd> toe hij papa werd van dochter Sabrina.
+Papa Cois was <leeftijd> toen hij papa werd van dochter Sabrina.
 ```
 
 
