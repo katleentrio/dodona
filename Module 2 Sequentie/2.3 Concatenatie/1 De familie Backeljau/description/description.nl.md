@@ -29,7 +29,6 @@ De dochter Sabrina is {leeftijd}
 De bomma Thérèse is {leeftijd}
 De buurman Marcel is {leeftijd}
 
-
 Mama Maria was {leeftijd} toen ze haar oudste zoon Franky kreeg.
 Papa Cois was {leeftijd} toen hij papa werd van dochter Sabrina.
 ```
