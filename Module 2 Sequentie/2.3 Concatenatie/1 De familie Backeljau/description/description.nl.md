@@ -16,17 +16,22 @@ Stel de  familie Backeljau voor met hun leeftijd. De leeftijd is een berekend ve
 
 
 Eerst stel je de familie voor. Je eindigt met de laatste zinnen.
+{leeftijd} is een berekend veld. Het is niet de bedoeling om zelf de leeftijd te berekenen. Je programma doet dit.
 
 *Uitvoer*
 ```
 Dit is de familie backeljau.
 
-De papa Cois is <leeftijd>
-De mama Maria is <leeftijd>
-(de rest van de familie - ook de buurman - vul je verder aan.)
+De papa Cois is {leeftijd}
+De mama Maria is {leeftijd}
+De zoon Franky is {leeftijd}
+De dochter Sabrina is {leeftijd}
+De bomma Thérèse is {leeftijd}
+De buurman Marcel is {leeftijd}
 
-Mama Maria was <leeftijd> toen ze haar oudste zoon Franky kreeg.
-Papa Cois was <leeftijd> toen hij papa werd van dochter Sabrina.
+
+Mama Maria was {leeftijd} toen ze haar oudste zoon Franky kreeg.
+Papa Cois was {leeftijd} toen hij papa werd van dochter Sabrina.
 ```
 
 
