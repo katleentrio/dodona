@@ -15,6 +15,5 @@ De tekst `Einde programma` verschijnt altijd, ongeacht de ingave van de gebruike
 
 ```
 De zon schijnt vandaag. Neem je zonnebril mee.
-
 Einde programma
 ```

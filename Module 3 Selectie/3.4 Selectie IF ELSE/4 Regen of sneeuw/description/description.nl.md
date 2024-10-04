@@ -15,6 +15,5 @@ De tekst `Einde programma` verschijnt altijd, ongeacht de ingave van de gebruike
 
 ```
 Het sneeuwt vandaag. Neem handschoenen mee.
-
 Einde programma
 ```

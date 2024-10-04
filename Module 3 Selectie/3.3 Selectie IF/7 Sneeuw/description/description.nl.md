@@ -11,6 +11,5 @@ Als het sneeuwt, moet je handschoenen meenemen. Schrijf een programma dat vraagt
 
 ```
 Het sneeuwt vandaag. Neem handschoenen mee.
-
 Einde programma
 ```
