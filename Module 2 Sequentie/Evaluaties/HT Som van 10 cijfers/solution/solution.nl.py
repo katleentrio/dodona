@@ -11,4 +11,4 @@ getal10 = int(input("Geef nog een laatste getal: "))
 
 som = getal1 + getal2 + getal3 + getal4 + getal5 + getal6 + getal7 + getal8 + getal9 + getal10
 
-print("De som bedraagt", som)
+print("De som bedraagt", str(som)+".")

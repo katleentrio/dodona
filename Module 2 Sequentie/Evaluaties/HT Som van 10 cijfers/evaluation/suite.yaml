@@ -11,7 +11,7 @@
       8
       9
       10
-    stdout: 'De som bedraagt 55'
+    stdout: 'De som bedraagt 55.'
   - stdin: |
       5
       10
@@ -23,7 +23,7 @@
       13
       9
       14
-    stdout: 'De som bedraagt 95'
+    stdout: 'De som bedraagt 95.'
 
 
 

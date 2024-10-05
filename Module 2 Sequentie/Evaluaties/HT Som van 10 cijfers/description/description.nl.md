@@ -27,5 +27,5 @@ De som van deze 10 getallen.
 
 **Uitvoer:**
 
-    De som bedraagt 55
+    De som bedraagt 55.
 
