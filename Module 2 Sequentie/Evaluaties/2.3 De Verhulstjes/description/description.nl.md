@@ -6,10 +6,6 @@ De familie bestaat uit Gert Verhulst (1968), zijn vrouw Ellen Callebout (1978) e
 
 Stel de Verhulstjes voor met hun leeftijd zoals hieronder in het voorbeeld. {leeftijd} is een berekend veld op basis van hun geboortejaar en het huidig jaar (2024).
 
-![afb.](media/de familie Backeljau.png "afb"){:width="50%"}
-
-
-
 *Uitvoer*
 ```
 Dit zijn de Verhulstjes.
