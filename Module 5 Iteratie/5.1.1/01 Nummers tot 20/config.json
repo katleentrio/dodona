@@ -1,0 +1,20 @@
+{
+  "description": {
+    "names": {
+      "nl": "Nummers tot 20"
+    }
+  },
+  "evaluation": {
+    "handler": "python",
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "Iteratie",
+    "While"
+   
+  ],
+  "internals": {
+    "token": "ShBXZBDRnhQGwBa7ab3PXuCaBecbxSbY-Ip5GYQCs3NcyvSAsHKJ-kfNBVpztCMx",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

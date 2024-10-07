@@ -1,0 +1,15 @@
+{
+  "description": {
+    "names": {
+      "nl": "Tafels van vermenigvuldiging",
+      "en": "Multiplication tables"
+    }
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "adqezCb_CM5kmz8BB2XxyYt7bAE-FkdUuIzpDWSSAvSWMknxRN-BY55d2hwmCPUf",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
