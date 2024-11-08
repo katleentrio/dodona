@@ -23,6 +23,6 @@ Klaar
 tab name: Feedback
 python input without prompt: true
 block count: multi
-input block size: 0
+input block size: 20
 output block size: ends with
 comparison: exact match
