@@ -114,7 +114,7 @@ Het grootste getal bedraagt 184.
 Klaar
 -----------------------------------------
 tab name: Feedback
-python input without prompt: true
+python input without prompt: false
 block count: multi
 input block size: 20
 output block size: ends with
