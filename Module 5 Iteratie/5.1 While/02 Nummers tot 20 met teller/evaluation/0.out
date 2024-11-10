@@ -18,11 +18,12 @@
 18
 19
 20
+De som bedraagt 210.
 Klaar
 -----------------------------------------
 tab name: Feedback
 python input without prompt: true
 block count: multi
-input block size: 20
+input block size: 22
 output block size: ends with
 comparison: exact match
