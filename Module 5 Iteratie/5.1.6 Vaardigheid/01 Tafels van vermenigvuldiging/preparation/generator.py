@@ -45,7 +45,7 @@ for index, stdin in enumerate(cases):
     print(stdin, file=infile)
 
     # generate output to output file
-    script = os.path.join(solutiondir, 'solution.en.py')
+    script = os.path.join(solutiondir, 'solution.nl.py')
     process= subprocess.run(
         ['python', script],
         input=stdin,
