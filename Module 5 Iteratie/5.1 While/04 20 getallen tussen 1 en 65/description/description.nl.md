@@ -25,6 +25,6 @@ Geef een getal: 17
 Geef een getal: 14
 Geef een getal: 16
 Geef een getal: 15
-Het grootste getal bedraagt 20.
+Het kleinste getal bedraagt 1.
 Klaar
 ```
