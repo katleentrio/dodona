@@ -1,0 +1,121 @@
+Geef een getal: 9
+Geef een getal: 2
+Geef een getal: 1
+Geef een getal: 3
+Geef een getal: 4
+Geef een getal: 5
+Geef een getal: 6
+Geef een getal: 7
+Geef een getal: 8
+Geef een getal: 10
+Geef een getal: 20
+Geef een getal: 11
+Geef een getal: 19
+Geef een getal: 12
+Geef een getal: 18
+Geef een getal: 13
+Geef een getal: 17
+Geef een getal: 14
+Geef een getal: 16
+Geef een getal: 15
+Het grootste getal bedraagt 20.
+Klaar
+
+Geef een getal: 167
+Geef een getal: 4
+Geef een getal: 18
+Geef een getal: 5
+Geef een getal: 171
+Geef een getal: 74
+Geef een getal: 188
+Geef een getal: 195
+Geef een getal: 31
+Geef een getal: 50
+Geef een getal: 16
+Geef een getal: 2
+Geef een getal: 33
+Geef een getal: 59
+Geef een getal: 179
+Geef een getal: 180
+Geef een getal: 1
+Geef een getal: 188
+Geef een getal: 130
+Geef een getal: 65
+Het grootste getal bedraagt 195.
+Klaar
+
+Geef een getal: 151
+Geef een getal: 159
+Geef een getal: -25
+Geef een getal: -111
+Geef een getal: 169
+Geef een getal: -190
+Geef een getal: -185
+Geef een getal: 138
+Geef een getal: -122
+Geef een getal: 72
+Geef een getal: -193
+Geef een getal: -137
+Geef een getal: 3
+Geef een getal: 98
+Geef een getal: -165
+Geef een getal: 148
+Geef een getal: -158
+Geef een getal: -84
+Geef een getal: -67
+Geef een getal: 99
+Het grootste getal bedraagt 169.
+Klaar
+
+Geef een getal: -4
+Geef een getal: 14
+Geef een getal: 32
+Geef een getal: -120
+Geef een getal: -100
+Geef een getal: -148
+Geef een getal: -54
+Geef een getal: 112
+Geef een getal: -75
+Geef een getal: -21
+Geef een getal: 140
+Geef een getal: 118
+Geef een getal: 111
+Geef een getal: 176
+Geef een getal: 119
+Geef een getal: -102
+Geef een getal: 200
+Geef een getal: 53
+Geef een getal: -108
+Geef een getal: 191
+Het grootste getal bedraagt 200.
+Klaar
+
+Geef een getal: -199
+Geef een getal: 37
+Geef een getal: -200
+Geef een getal: -35
+Geef een getal: 1
+Geef een getal: 184
+Geef een getal: 81
+Geef een getal: -159
+Geef een getal: -120
+Geef een getal: -102
+Geef een getal: 72
+Geef een getal: -125
+Geef een getal: -182
+Geef een getal: -47
+Geef een getal: 142
+Geef een getal: -52
+Geef een getal: -6
+Geef een getal: -132
+Geef een getal: -53
+Geef een getal: 11
+Het grootste getal bedraagt 184.
+Klaar
+-----------------------------------------
+tab name: Feedback
+python input without prompt: true
+block count: multi
+input block size: 22
+output block size: ends with
+comparison: exact match
