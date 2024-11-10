@@ -1,5 +1,6 @@
 Geef een getal: 
 Geef een getal: 
+Te klein of te groot. Geef een correct getal: 
 Geef een getal: 
 Geef een getal: 
 Geef een getal: 
@@ -17,12 +18,14 @@ Geef een getal:
 Geef een getal: 
 Geef een getal: 
 Geef een getal: 
+Te klein of te groot. Geef een correct getal: 
 Geef een getal: 
 Het kleinste getal bedraagt 4.
 Klaar
 
 Geef een getal: 
 Geef een getal: 
+Te klein of te groot. Geef een correct getal: 
 Geef een getal: 
 Geef een getal: 
 Geef een getal: 
@@ -40,12 +43,14 @@ Geef een getal:
 Geef een getal: 
 Geef een getal: 
 Geef een getal: 
+Te klein of te groot. Geef een correct getal: 
 Geef een getal: 
 Het kleinste getal bedraagt 1.
 Klaar
 
 Geef een getal: 
 Geef een getal: 
+Te klein of te groot. Geef een correct getal: 
 Geef een getal: 
 Geef een getal: 
 Geef een getal: 
@@ -63,12 +68,14 @@ Geef een getal:
 Geef een getal: 
 Geef een getal: 
 Geef een getal: 
+Te klein of te groot. Geef een correct getal: 
 Geef een getal: 
 Het kleinste getal bedraagt 4.
 Klaar
 
 Geef een getal: 
 Geef een getal: 
+Te klein of te groot. Geef een correct getal: 
 Geef een getal: 
 Geef een getal: 
 Geef een getal: 
@@ -86,12 +93,14 @@ Geef een getal:
 Geef een getal: 
 Geef een getal: 
 Geef een getal: 
+Te klein of te groot. Geef een correct getal: 
 Geef een getal: 
 Het kleinste getal bedraagt 6.
 Klaar
 
 Geef een getal: 
 Geef een getal: 
+Te klein of te groot. Geef een correct getal: 
 Geef een getal: 
 Geef een getal: 
 Geef een getal: 
@@ -109,6 +118,7 @@ Geef een getal:
 Geef een getal: 
 Geef een getal: 
 Geef een getal: 
+Te klein of te groot. Geef een correct getal: 
 Geef een getal: 
 Het kleinste getal bedraagt 9.
 Klaar
@@ -116,6 +126,6 @@ Klaar
 tab name: Feedback
 python input without prompt: false
 block count: multi
-input block size: 20
+input block size: 22
 output block size: ends with
 comparison: exact match
