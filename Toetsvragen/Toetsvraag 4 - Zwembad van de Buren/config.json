@@ -9,6 +9,7 @@
     }
   },
   "evaluation": {
+    "handler": "python",
     "pythia_judge": "output"
   },
   "labels": [
