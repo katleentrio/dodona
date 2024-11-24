@@ -15,10 +15,10 @@ Vraag **eerst** naar de **diameter** en **diepte** van het zwembad van Eddy (in 
 #### Voorbeeld
 *Input*
 ```
-Geef de diepte in van het zwembad van Eddy: 
 Geef de diameter in van het zwembad van Eddy: 
-Geef de diepte in van het zwembad van Freddy: 
+Geef de diepte in van het zwembad van Eddy: 
 Geef de diameter in van het zwembad van Freddy: 
+Geef de diepte in van het zwembad van Freddy: 
 ```
 *Output*
 
