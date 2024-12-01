@@ -13,11 +13,12 @@
     "pythia_judge": "output"
   },
   "labels": [
+    "functies",
     "python",
     "robbe wulgaert",
-    "functies",
     "modules",
-    "afronden"
+    "afronden",
+    "selectie"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
