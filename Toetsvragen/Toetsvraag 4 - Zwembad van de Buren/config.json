@@ -4,7 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Toetsvraag - Zwembad bij de buren",
+      "nl": "Zwembad bij de buren",
       "en": "Neighbour's swimming pool"
     }
   },
@@ -14,7 +14,10 @@
   },
   "labels": [
     "python",
-    "Robbe Wulgaert"
+    "robbe wulgaert",
+    "functies",
+    "modules",
+    "afronden"
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
