@@ -1,6 +1,6 @@
 ## Opdracht
 
-Er was eens een getalenteerde Belgische turnster genaamd Lisa Vaelen, die deelnam aan de Olympische Spelen. Lisa, oud-leerling van deze school, was beroemd om haar indrukwekkende prestaties op de evenwichtsbalk. Op een dag, tijdens een trainingssessie, vroeg ze zich af wat de oppervlakte en inhoud van de balk zou zijn waarop ze haar oefeningen uitvoerde.
+Er was eens een getalenteerde Belgische turnster genaamd Lisa Vaelen, die deelnam aan de Olympische Spelen. Lisa, oud-leerling van deze school, was beroemd om haar indrukwekkende prestaties op de evenwichtsbalk. Op een dag, tijdens een trainingssessie, vroeg ze zich af wat de inhoud van de balk zou zijn waarop ze haar oefeningen uitvoerde.
 
 ![afb.](media/Lisa Vaelen Balk.jpg "afb"){:width="25%"}
 
