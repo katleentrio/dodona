@@ -10,7 +10,7 @@ Schrijf een programma dat de inhoud van een balk berekent. Het programma vraagt 
 
 ## Voorbeeld
 
-*input*
+*Input*
 ```
 Geef de lengte van de balk: 5
 Geef de breedte van de balk: 10.6

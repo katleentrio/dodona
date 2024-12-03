@@ -8,7 +8,7 @@ Geef de gecombineerde naam weer in je output. Opgelet, namen plakken niet tegen 
 
 ## Voorbeeld
 
-*input*
+*Input*
 ```
 zin1
 ```
