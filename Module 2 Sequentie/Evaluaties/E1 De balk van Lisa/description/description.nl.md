@@ -5,7 +5,7 @@ Er was eens een getalenteerde Belgische turnster genaamd Lisa Vaelen, die deelna
 ![afb.](media/Lisa Vaelen Balk.jpg "afb"){:width="25%"}
 
 ## Gevraagd
-Schrijf een programma dat de inhoud van een balk berekent. Het programma moest de lengte, breedte en hoogte van de balk aan de gebruiker vragen en vervolgens de inhoud berekenen met de formule $$V = l \cdot b \cdot h$$. Het resultaat moest op het scherm verschijnen.
+Schrijf een programma dat de inhoud van een balk berekent. Het programma vraagt de lengte, breedte en hoogte van de balk aan de gebruiker en berekent vervolgens de inhoud met de formule $$V = l \cdot b \cdot h$$. Het resultaat verschijnt zoals onderstaand voorbeeld op het scherm.
 
 
 ## Voorbeeld
