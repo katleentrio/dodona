@@ -40,4 +40,4 @@ Beide zwembaden hebben een volume van ... kubieke meter.
 
 >Vergeet niet om gebruik te maken van de math-bibliotheek om de correcte notatie van pi in te laden.
 
->Het volume bereken je als volgt: pi * r^2 * h
+>Het volume bereken je als volgt: pi * r² * h
