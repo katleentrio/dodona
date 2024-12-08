@@ -1,0 +1,17 @@
+{
+  "description": {
+    "names": {
+      "nl": "Klanten 1"
+    }
+  },
+  "contact": "Katleen Trio <katleen.trio@campus-keerbergen.be>",
+  "internals": {
+    "token": "EJ7FwWVeEq7vTWMDtHU5VuxrXwv8GYz2WGX-tZNrmUDjAFScXv74Iee_yffExWQ9",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": [
+    "select",
+    "database", "sql"
+  ],
+  "type": "exercise"
+}
