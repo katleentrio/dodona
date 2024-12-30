@@ -11,13 +11,13 @@ Schrijf een programma dat de cijfers in oplopende volgorde van 8 t.e.m. 36 afdru
 #### Uitvoer:
 
 ```
-100
-96
-92
-.
-.
-.
 8
-4
+9
+10
+.
+.
+.
+35
+36
 
 ```
