@@ -1,4 +1,3 @@
-## Letters in een woord
 
 Om het lezen te bevorderen, worden de letters in een woord opgesplitst en afgedrukt op een nieuwe regel.
 
